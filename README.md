@@ -1,2 +1,2 @@
-# AI_CNN
-my CNN code
+# AI
+my Artificial Intelligence code
